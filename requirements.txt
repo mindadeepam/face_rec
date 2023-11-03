@@ -2,3 +2,7 @@ torch==2.1.0
 torchvision==0.16.0
 numpy==1.26.1
 gradio==4.0.2
+Pillow==9.4.0
+pandas==2.1.2
+transformers==4.34.1
+deepface==0.0.79
